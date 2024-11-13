@@ -20,7 +20,7 @@ I'm a **newbie** in the DevOps field, but I’m already **obsessed** with making
 Here are some of the cool technologies I’ve been working with:
 
 ### ☁️ Cloud Computing
-- **AWS**: EC2, S3, Lambda, IAM, CloudFormation, and much more!
+- **AWS**: EC2, S3, Load-Balancing,Auto-Scalling, IAM, Code-pipeline,, and much more!
 - **Terraform**: For Infrastructure as Code (IaC), and automating cloud resource provisioning.
 
 ### 🚢 Containers & Orchestration
@@ -33,11 +33,15 @@ Here are some of the cool technologies I’ve been working with:
 
 ### 🔄 Version Control
 - **Git**: Managing code and collaborating seamlessly with teams using Git.
-
-## 📚 Learning Journey
+- 
+- ## 📚 Learning Journey
 
 I’m constantly learning and experimenting with new tools. Here’s a sneak peek into what I'm currently exploring:
 
 - **Advanced Kubernetes**: Scaling and managing complex applications.
 - **Advanced Terraform**: Infrastructure automation and multi-cloud environments.
-- **AWS Advanced Services**: Going beyond EC2 and diving deep into services like AWS Code-pipeline, VPC,S3,IAM,Auto-scalling,load-balancing,  and others.
+- **AWS Advanced Services**: Going beyond EC2 and diving deep into services like Lambda, VPC, and others.
+- **OpenTofu**: Exploring this community-driven, open-source alternative to Terraform to simplify cloud infrastructure management.
+
+- Thanks for checking out my repo! 🌟 Let’s continue to learn, automate, and scale together! 🚀
+
